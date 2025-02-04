@@ -1,10 +1,6 @@
 body {
-    background-color: #000000;
+    background-color: #000;
     font-family: var(--font-dm-sans);
-}
-
-h1 {
-    color: #ffffff;
 }
 
 .sidebar {
@@ -102,7 +98,7 @@ h1 {
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
-    margin: 8px 0px;
+    margin: 8px 0;
     padding: 16px 20px;
     border-radius: 10px;
 }
